@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-02-15T18:16:06Z" name="Suite" finished-at="2021-02-15T18:16:25Z" duration-ms="19621">
+    <groups>
+    </groups>
+    <test started-at="2021-02-15T18:16:06Z" name="Test" finished-at="2021-02-15T18:16:25Z" duration-ms="19621">
+      <class name="jen.simpleTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:jen.simpleTest@291caca8]" started-at="2021-02-15T18:16:06Z" name="setup" finished-at="2021-02-15T18:16:09Z" duration-ms="2761" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="testcase1()[pri:0, instance:jen.simpleTest@291caca8]" started-at="2021-02-15T18:16:09Z" name="testcase1" finished-at="2021-02-15T18:16:09Z" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase1 -->
+        <test-method is-config="true" signature="close()[pri:0, instance:jen.simpleTest@291caca8]" started-at="2021-02-15T18:16:09Z" name="close" finished-at="2021-02-15T18:16:13Z" duration-ms="4076" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:jen.simpleTest@291caca8]" started-at="2021-02-15T18:16:13Z" name="setup" finished-at="2021-02-15T18:16:15Z" duration-ms="2285" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="testcase2()[pri:0, instance:jen.simpleTest@291caca8]" started-at="2021-02-15T18:16:15Z" name="testcase2" finished-at="2021-02-15T18:16:15Z" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase2 -->
+        <test-method is-config="true" signature="close()[pri:0, instance:jen.simpleTest@291caca8]" started-at="2021-02-15T18:16:15Z" name="close" finished-at="2021-02-15T18:16:19Z" duration-ms="4083" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:jen.simpleTest@291caca8]" started-at="2021-02-15T18:16:19Z" name="setup" finished-at="2021-02-15T18:16:21Z" duration-ms="2315" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="testcase3()[pri:0, instance:jen.simpleTest@291caca8]" started-at="2021-02-15T18:16:21Z" name="testcase3" finished-at="2021-02-15T18:16:21Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase3 -->
+        <test-method is-config="true" signature="close()[pri:0, instance:jen.simpleTest@291caca8]" started-at="2021-02-15T18:16:21Z" name="close" finished-at="2021-02-15T18:16:25Z" duration-ms="4074" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- jen.simpleTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
